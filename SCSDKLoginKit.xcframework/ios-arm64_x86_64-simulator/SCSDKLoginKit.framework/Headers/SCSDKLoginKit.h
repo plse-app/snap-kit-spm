@@ -1,12 +1,13 @@
-#import <SCSDKLoginKit/SCOAuth2AuthHeaderProvider.h>
-#import <SCSDKLoginKit/SCOAuth2ResourceNetworkManager.h>
-#import <SCSDKLoginKit/SCSDKAnalyticsEventsQueue.h>
-#import <SCSDKLoginKit/SCSDKLoginKitProtected.h>
-#import <SCSDKLoginKit/SCSDKResourceNetworkUtilities.h>
+//
+//  SCSDKLoginKitPublic.h
+//  SCSDKLoginKit
+//
+//  Copyright © 2017 Snap, Inc. All rights reserved.
+//
+
 #import <SCSDKLoginKit/SCSDKLoginButton.h>
 #import <SCSDKLoginKit/SCSDKLoginClient.h>
 #import <SCSDKLoginKit/SCSDKLoginKitErrorCode.h>
-#import <SCSDKLoginKit/SCSDKLoginKitPublic.h>
 #import <SCSDKLoginKit/SCSDKUserData.h>
 #import <SCSDKLoginKit/SCSDKUserDataQuery.h>
 #import <SCSDKLoginKit/SCSDKUserDataQueryBuilder.h>
