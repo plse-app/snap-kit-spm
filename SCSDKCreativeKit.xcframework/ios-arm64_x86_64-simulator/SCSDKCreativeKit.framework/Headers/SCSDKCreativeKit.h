@@ -19,4 +19,3 @@
 #import "SCSDKSnapSticker.h"
 #import "SCSDKSnapVideo.h"
 #import "SCSDKVideoSnapContent.h"
-
